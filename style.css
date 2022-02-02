@@ -1,0 +1,54 @@
+#whole {
+  background-image: url(https://time-fun.fun/wp-content/uploads/2020/06/t337fes-bk.jpg);
+  background-size: cover;
+  color: azure;
+}
+
+#name {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 160px;
+}
+
+#romaji-name {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+#birthday {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+#buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+#button {
+  display: flex;
+  padding-left: 30px;
+  padding-top: 60px;
+}
+
+#counter-area {
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+  padding-top: 50px;
+}
+
+#count-starter {
+  padding-left: 40px;
+}
+
+#count-display {
+  padding-left: 30px;
+  border: 2px;
+  color: aliceblue;
+}
